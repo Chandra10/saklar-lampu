@@ -1,0 +1,15 @@
+.nyala {
+  width: 130px;
+  height: 40px;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: yellow;
+}
+
+.mati {
+  width: 130px;
+  height: 40px;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: orange;
+}
